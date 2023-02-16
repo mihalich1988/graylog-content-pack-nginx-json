@@ -10,7 +10,7 @@ You need to run at least nginx version 1.11.8, with `escape=json` support.
     log_format graylog_json escape=json '{'
                                                 '"connection_id": $connection,'
                                                 '"connection_requests": $connection_requests,'
-                                                '"timestamp": "$time_iso8601",'
+                                                '"timestamp": $msec,'
                                                 '"remote_addr": "$remote_addr",'
                                                 '"millis": $request_time,'
                                                 '"response_status": $status,'
