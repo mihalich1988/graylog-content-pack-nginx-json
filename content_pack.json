@@ -336,9 +336,17 @@
                   "@value": 86400
                 }
               },
+              "lower_is_better": {
+                "@type": "boolean",
+                "@value": false
+              },
               "stream_id": {
                 "@type": "string",
                 "@value": "83ab13ec-2203-474a-bd6e-f6f8bb7698b0"
+              },
+              "trend": {
+                "@type": "boolean",
+                "@value": false
               },
               "query": {
                 "@type": "string",
@@ -406,9 +414,17 @@
                 "@type": "string",
                 "@value": "response_status"
               },
+              "lower_is_better": {
+                "@type": "boolean",
+                "@value": false
+              },
               "stream_id": {
                 "@type": "string",
                 "@value": "83ab13ec-2203-474a-bd6e-f6f8bb7698b0"
+              },
+              "trend": {
+                "@type": "boolean",
+                "@value": false
               },
               "query": {
                 "@type": "string",
@@ -492,9 +508,17 @@
                 "@type": "string",
                 "@value": "minute"
               },
+              "lower_is_better": {
+                "@type": "boolean",
+                "@value": false
+              },
               "stream_id": {
                 "@type": "string",
                 "@value": "108d4301-9782-40f7-9e19-0bdd5a1c1d1a"
+              },
+              "trend": {
+                "@type": "boolean",
+                "@value": false
               },
               "query": {
                 "@type": "string",
@@ -558,9 +582,17 @@
                   "@value": 86400
                 }
               },
+              "lower_is_better": {
+                "@type": "boolean",
+                "@value": false
+              },
               "stream_id": {
                 "@type": "string",
                 "@value": "50620580-24ff-4a0c-affe-b05cc156f46f"
+              },
+              "trend": {
+                "@type": "boolean",
+                "@value": false
               },
               "query": {
                 "@type": "string",
@@ -624,9 +656,17 @@
                   "@value": 86400
                 }
               },
+              "lower_is_better": {
+                "@type": "boolean",
+                "@value": false
+              },
               "stream_id": {
                 "@type": "string",
                 "@value": "dfde5385-8a6e-4fcb-b512-8e8f6bb9fb7b"
+              },
+              "trend": {
+                "@type": "boolean",
+                "@value": false
               },
               "query": {
                 "@type": "string",
@@ -784,9 +824,17 @@
                   "@value": 86400
                 }
               },
+              "lower_is_better": {
+                "@type": "boolean",
+                "@value": false
+              },
               "stream_id": {
                 "@type": "string",
                 "@value": "dfde5385-8a6e-4fcb-b512-8e8f6bb9fb7b"
+              },
+              "trend": {
+                "@type": "boolean",
+                "@value": false
               },
               "query": {
                 "@type": "string",
@@ -854,9 +902,17 @@
                   "@value": 86400
                 }
               },
+              "lower_is_better": {
+                "@type": "boolean",
+                "@value": false
+              },
               "stream_id": {
                 "@type": "string",
                 "@value": "83ab13ec-2203-474a-bd6e-f6f8bb7698b0"
+              },
+              "trend": {
+                "@type": "boolean",
+                "@value": false
               },
               "query": {
                 "@type": "string",
@@ -998,9 +1054,17 @@
                   "@value": 86400
                 }
               },
+              "lower_is_better": {
+                "@type": "boolean",
+                "@value": false
+              },
               "stream_id": {
                 "@type": "string",
                 "@value": "50620580-24ff-4a0c-affe-b05cc156f46f"
+              },
+              "trend": {
+                "@type": "boolean",
+                "@value": false
               },
               "query": {
                 "@type": "string",
